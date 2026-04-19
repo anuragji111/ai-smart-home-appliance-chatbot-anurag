@@ -1,6 +1,6 @@
 # AI-Powered Smart Home Appliance Buyer Guide Chatbot
 
-🚀 Live Demo: https://google-gemini-chatbot-plum.vercel.app/
+🚀 Live Demo: https://chat-anurag.netlify.app/
 
 ---
 
