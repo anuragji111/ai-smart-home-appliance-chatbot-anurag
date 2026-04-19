@@ -1,6 +1,6 @@
 # AI-Powered Smart Home Appliance Buyer Guide Chatbot
 
-🚀 Live Demo: https://chat-
+🚀 Live Demo: https://chat-anu-anurag.netlify.app/
 
 ---
 
