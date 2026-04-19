@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gemini Chatbot</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+  <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+  <h1 class="title">AI-Powered Smart Home Appliance Buyer Guide</h1>
+
+  <p class="subtitle">
+    Your intelligent assistant for choosing the best home appliances based on budget, room size, and energy efficiency
+  </p>
+
+  <ul class="suggestion-list">
+
+    <li class="suggestion">
+      <h4 class="text">Best AC under ₹30,000 for small room</h4>
+      <span class="icon material-symbols-rounded">ac_unit</span>
+    </li>
+
+    <li class="suggestion">
+      <h4 class="text">Which refrigerator is best for low electricity consumption?</h4>
+      <span class="icon material-symbols-rounded">kitchen</span>
+    </li>
+
+    <li class="suggestion">
+      <h4 class="text">Washing machine for a family of 4 members</h4>
+      <span class="icon material-symbols-rounded">local_laundry_service</span>
+    </li>
+
+    <li class="suggestion">
+      <h4 class="text">Energy efficient home appliances for saving electricity</h4>
+      <span class="icon material-symbols-rounded">energy_savings_leaf</span>
+    </li>
+
+  </ul>
+</header>
+
+  <div class="chat-list"></div>
+
+  <div class="typing-area">
+    <form action="#" class="typing-form">
+      <div class="input-wrapper">
+        <input type="text" placeholder="Enter a prompt here" class="typing-input" required />
+        <button id="send-message-button" class="icon material-symbols-rounded">send</button>
+      </div>
+      <div class="action-buttons">
+        <span id="theme-toggle-button" class="icon material-symbols-rounded">light_mode</span>
+        <span id="delete-chat-button" class="icon material-symbols-rounded">delete</span>
+      </div>
+    </form>
+    <p class="disclaimer-text">
+AI-Powered Smart Home Appliance Buyer Guide Chatbot provides intelligent suggestions based on user needs, budget, and energy efficiency. It uses Generative AI to help users make better purchasing decisions.
+</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
