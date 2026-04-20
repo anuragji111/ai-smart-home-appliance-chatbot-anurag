@@ -122,3 +122,17 @@ BTech CSE | AI & Full Stack Developer
 6-iii. vs code - style.css:
    <img width="1454" height="956" alt="6-iii  vs code - style css" src="https://github.com/user-attachments/assets/235e7454-8148-4799-9d25-5caa9b72056e" />
 
+7. gemini-api-key-usage:
+   <img width="1832" height="1021" alt="7  gemini-api-key-usage" src="https://github.com/user-attachments/assets/cbf01673-b26c-4d14-8aff-03820a21ed8a" />
+
+8. github-live-deployment:
+   <img width="1800" height="1030" alt="8  github-live-deployment" src="https://github.com/user-attachments/assets/2cebebb8-1513-4a3f-a02b-537e9ff89821" />
+
+8-ii. github-live-deployment:
+    <img width="1905" height="1024" alt="8-ii  github-live-deployment" src="https://github.com/user-attachments/assets/2baed710-0d94-42d1-8c2a-4c9ed23d8094" />
+
+9.  Netlify-hosted-cloud-deployment:
+    <img width="1878" height="1026" alt="9   Netlify-hosted-cloud-deployment" src="https://github.com/user-attachments/assets/96ccdfd8-6087-4978-868b-1f5fd7a4384f" />
+
+9-ii.  Netlify-hosted-cloud-deployment:
+    <img width="1881" height="1013" alt="9-ii   Netlify-hosted-cloud-deployment" src="https://github.com/user-attachments/assets/7df3322b-6f2c-4690-9060-54074fca04f9" />
